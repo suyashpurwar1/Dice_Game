@@ -3,6 +3,8 @@
 ## Overview
 
 This React-based dice game allows users to roll the dice, guess a number, and earn points. Key features include total score tracking, real-time display of the current dice number, and a history of point outcomes. Users can reset the score and access game rules.
+![image](https://github.com/suyashpurwar1/Dice_Game/assets/153590375/99a6554b-1521-4968-81d6-038e259c8793)
+![image](https://github.com/suyashpurwar1/Dice_Game/assets/153590375/3f307c75-0b17-428c-a519-127e95063b35)
 
 ## Components
 
