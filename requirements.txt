@@ -1,0 +1,4 @@
+### dependency
+react
+react-dom
+styled-components
